@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "647266159040",
+    "firebase_url": "https://messageapp001-2a78b.firebaseio.com",
+    "project_id": "messageapp001-2a78b",
+    "storage_bucket": "messageapp001-2a78b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647266159040:android:d7bcdd51afb7338e1fe025",
+        "android_client_info": {
+          "package_name": "com.example.myapp001"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647266159040-qr6gmh7d5a2dfr3upqg3p1cusefp8mcp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKOCPAuOUmAx6EwWvN8yBBiubl4MpbYOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647266159040-qr6gmh7d5a2dfr3upqg3p1cusefp8mcp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "647266159040-v8dk28kr0lhd0pdkehprrs2o80p570m6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.koiware.MessageApp003"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647266159040:android:3c528ed37910a8e01fe025",
+        "android_client_info": {
+          "package_name": "com.example.testapp001"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647266159040-qr6gmh7d5a2dfr3upqg3p1cusefp8mcp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKOCPAuOUmAx6EwWvN8yBBiubl4MpbYOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647266159040-qr6gmh7d5a2dfr3upqg3p1cusefp8mcp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "647266159040-v8dk28kr0lhd0pdkehprrs2o80p570m6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.koiware.MessageApp003"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

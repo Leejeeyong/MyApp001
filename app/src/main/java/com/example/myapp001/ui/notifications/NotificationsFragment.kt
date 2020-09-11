@@ -25,8 +25,6 @@ class NotificationsFragment : Fragment() {
     var array: Array<String> = Array(255,{i->""})
     val pref = activity?.getSharedPreferences("pref",0)
 
-
-
     override fun onCreateView(
         inflater: LayoutInflater,
         container: ViewGroup?,
@@ -35,7 +33,6 @@ class NotificationsFragment : Fragment() {
         notificationsViewModel =
             ViewModelProviders.of(this).get(NotificationsViewModel::class.java)
         val root = inflater.inflate(R.layout.fragment_notifications, container, false)
-
 
         val listVieqw : ListView = root.findViewById(R.id.listviewMyProd)
         val db = FirebaseFirestore.getInstance()
